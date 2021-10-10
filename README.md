@@ -3,3 +3,9 @@ I'm a college student powerlifter who as many people during COVID-19 was unable 
 
 Donate
 Has this project helped you? Consider donating!
+
+What?
+Search for your favorite Rogue Fitness equipment
+Get notified whenever items are back in stock through FB messenger
+Limit of 10 items
+Checks items every 30 seconds
